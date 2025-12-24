@@ -176,6 +176,7 @@ function! s:setDictionaries()
         \ 'ejs'      : '',
         \ 'css'      : '',
         \ 'less'     : '',
+        \ 'm'        : '',
         \ 'md'       : '',
         \ 'mdx'      : '',
         \ 'markdown' : '',
