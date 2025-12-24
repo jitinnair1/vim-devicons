@@ -3,5 +3,6 @@ This is my fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons). Ch
 What's changed:
 - Added CUDA
 - Added MATLAB
+- Updated HTNML, CSS, JS, TS, markdown, yaml, toml
 
 from [nerdfonts.com](https://nerdfonts.com)
